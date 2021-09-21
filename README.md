@@ -1,6 +1,6 @@
 
 # TFP Operations Terminal
-[![discord](https://ko-fi.com/img/githubbutton_sm.svg](https://discord.gg/5w4wuyKz4d)
+[![discord](https://ko-fi.com/img/githubbutton_sm.svg)](https://discord.gg/5w4wuyKz4d)
 
 [![Unit Information!](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dscipnet%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/scipnet)
 
